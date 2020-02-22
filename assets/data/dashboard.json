@@ -1,0 +1,385 @@
+{
+    "event":{
+        "name":"Event",
+        "status":89,
+        "completion":11,
+        "sessions":6599,
+        "topics":6599,
+        "assets":6599,
+        "team":[
+            {
+                "name":"Chadengle",
+                "email":"coderhemes@gmail.com",
+                "role":[
+                    "Owner"
+                ]
+            },
+            {
+                "name":"Michael Zenaty",
+                "email":"coderhemes@gmail.com",
+                "role":[
+                    "Author",
+                    "Speaker"
+                ]
+            },
+            {
+                "name":"Stillnotdavid",
+                "email":"coderhemes@gmail.com",
+                "role":[
+                    "Speaker"
+                ]
+            },
+            {
+                "name":"Tomaslau",
+                "email":"coderhemes@gmail.com",
+                "role":[
+                    "Speaker"
+                ]
+            }
+        ]
+    },
+    "qaActivity":{
+        "active": {
+            "users":6599,
+            "percentage":22
+        },
+        "pasive":{
+            "users":6599,
+            "percentage":72
+        },
+        "questions":6599,
+        "answers":6599
+    },
+    "audience":{
+        "invitations":{
+            "total":3082,
+            "history":[
+                {
+                    "name": "Germany",
+                    "value": 406
+                  },
+                  {
+                    "name": "United States",
+                    "value": 497
+                  },
+                  {
+                    "name": "France",
+                    "value": 367
+                  },
+                  {
+                    "name": "United Kingdom",
+                    "value": 362
+                  },
+                  {
+                    "name": "Spain",
+                    "value": 330
+                  },
+                  {
+                    "name": "Italy",
+                    "value": 358
+                  }
+            ]
+        },
+        "views":{
+            "total":3082,
+            "history":[
+                {
+                    "name": "Germany",
+                    "value": 406
+                  },
+                  {
+                    "name": "United States",
+                    "value": 497
+                  },
+                  {
+                    "name": "France",
+                    "value": 367
+                  },
+                  {
+                    "name": "United Kingdom",
+                    "value": 362
+                  },
+                  {
+                    "name": "Spain",
+                    "value": 330
+                  },
+                  {
+                    "name": "Italy",
+                    "value": 358
+                  }
+            ]
+        },
+        "uniqueusers":{
+            "total":3082,
+            "history":[
+                {
+                    "name": "Germany",
+                    "value": 406
+                  },
+                  {
+                    "name": "United States",
+                    "value": 497
+                  },
+                  {
+                    "name": "France",
+                    "value": 367
+                  },
+                  {
+                    "name": "United Kingdom",
+                    "value": 362
+                  },
+                  {
+                    "name": "Spain",
+                    "value": 330
+                  },
+                  {
+                    "name": "Italy",
+                    "value": 358
+                  }
+            ]
+        },
+        "registrations":{
+            "total":3082,
+            "history":[
+                {
+                    "name": "Germany",
+                    "value": 406
+                  },
+                  {
+                    "name": "United States",
+                    "value": 497
+                  },
+                  {
+                    "name": "France",
+                    "value": 367
+                  },
+                  {
+                    "name": "United Kingdom",
+                    "value": 362
+                  },
+                  {
+                    "name": "Spain",
+                    "value": 330
+                  },
+                  {
+                    "name": "Italy",
+                    "value": 358
+                  }
+            ]
+        },
+        "visits":{
+            "total":3082,
+            "history":[
+                {
+                    "name": "Facebook",
+                    "value": 406
+                  },
+                  {
+                    "name": "Twitter",
+                    "value": 497
+                  },
+                  {
+                    "name": "Email",
+                    "value": 367
+                  },
+                  {
+                    "name": "Email",
+                    "value": 362
+                  },
+                  {
+                    "name": "Other",
+                    "value": 330
+                  }
+            ]
+        },
+        "profile":{
+            "total":3082,
+            "history":[
+                {
+                    "name": "FullName",
+                    "value": 406
+                  },
+                  {
+                    "name": "Gender",
+                    "value": 497
+                  },
+                  {
+                    "name": "Birthday",
+                    "value": 367
+                  },
+                  {
+                    "name": "Country/State",
+                    "value": 362
+                  },
+                  {
+                    "name": "Profile Picture",
+                    "value": 330
+                  }
+            ]
+        },
+        "gender":{
+            "total":3082,
+            "history":[
+                {
+                    "name": "Male",
+                    "value": 2582
+                  },
+                  {
+                    "name": "Female",
+                    "value": 500
+                  }
+            ]
+        },
+        "agerange":{
+            "total":3082,
+            "history":[
+                {
+                    "name": "<26",
+                    "value": 406
+                  },
+                  {
+                    "name": "26-35",
+                    "value": 497
+                  },
+                  {
+                    "name": "36-50",
+                    "value": 367
+                  },
+                  {
+                    "name": "51-65",
+                    "value": 362
+                  },
+                  {
+                    "name": ">65",
+                    "value": 330
+                  }
+            ]
+        }
+    },
+    "sales":{
+      "sold":{
+        "quantity":20,
+        "percentage":40
+      },
+      "sales":{
+        "quantity":20,
+        "percentage":40
+      },
+      "discounts":{
+        "quantity":20,
+        "percentage":40
+      },
+      "revenue":{
+        "quantity":20,
+        "percentage":40
+      },
+      "goal":[
+        {
+          "name":"Reseve Ticket",
+          "value":21
+        },
+        {
+          "name":"Buy Ticket",
+          "value":21
+        },
+        {
+          "name":"Paid Ticket",
+          "value":21
+        }
+      ],
+      "dailysales":[
+        {
+          "name":"Test1",
+          "value":34
+        },
+        {
+          "name":"test2",
+          "value":34
+        },
+        {
+          "name":"Test3",
+          "value":34
+        },
+        {
+          "name":"Test4",
+          "value":34
+        },
+        {
+          "name":"Test5",
+          "value":34
+        }
+      ]
+    },
+    "tickets":[
+      {  
+        "name": "John Doe",  
+        "email": "john@doe.com", 
+        "date": "21/04/18", 
+        "voucher": "Ticket VIP", 
+        "price": "$140.00" 
+      },
+      {  
+        "name": "John Doe",  
+        "email": "john@doe.com", 
+        "date": "21/04/18", 
+        "voucher": "Ticket VIP", 
+        "price": "$140.00" 
+      },
+      {  
+        "name": "John Doe",  
+        "email": "john@doe.com", 
+        "date": "21/04/18", 
+        "voucher": "Ticket VIP", 
+        "price": "$140.00" 
+      },
+      {  
+        "name": "John Doe",  
+        "email": "john@doe.com", 
+        "date": "21/04/18", 
+        "voucher": "Ticket VIP", 
+        "price": "$140.00" 
+      },
+      {  
+        "name": "John Doe",  
+        "email": "john@doe.com", 
+        "date": "21/04/18", 
+        "voucher": "Ticket VIP", 
+        "price": "$140.00" 
+      },
+      {  
+        "name": "John Doe",  
+        "email": "john@doe.com", 
+        "date": "21/04/18", 
+        "voucher": "Ticket VIP", 
+        "price": "$140.00" 
+      },
+      {  
+        "name": "John Doe",  
+        "email": "john@doe.com", 
+        "date": "21/04/18", 
+        "voucher": "Ticket VIP", 
+        "price": "$140.00" 
+      },
+      {  
+        "name": "John Doe",  
+        "email": "john@doe.com", 
+        "date": "21/04/18", 
+        "voucher": "Ticket VIP", 
+        "price": "$140.00" 
+      },
+      {  
+        "name": "John Doe",  
+        "email": "john@doe.com", 
+        "date": "21/04/18", 
+        "voucher": "Ticket VIP", 
+        "price": "$140.00" 
+      },
+      {  
+        "name": "John Doe",  
+        "email": "john@doe.com", 
+        "date": "21/04/18", 
+        "voucher": "Ticket VIP", 
+        "price": "$140.00" 
+      }
+    ]
+}

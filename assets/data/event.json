@@ -1,0 +1,39 @@
+{
+    "name":"Event",
+    "status":89,
+    "completion":11,
+    "sessions":6599,
+    "topics":6599,
+    "assets":6599,
+    "team":[
+        {
+            "name":"Chadengle",
+            "email":"coderhemes@gmail.com",
+            "role":[
+                "Owner"
+            ]
+        },
+        {
+            "name":"Michael Zenaty",
+            "email":"coderhemes@gmail.com",
+            "role":[
+                "Author",
+                "Speaker"
+            ]
+        },
+        {
+            "name":"Stillnotdavid",
+            "email":"coderhemes@gmail.com",
+            "role":[
+                "Speaker"
+            ]
+        },
+        {
+            "name":"Tomaslau",
+            "email":"coderhemes@gmail.com",
+            "role":[
+                "Speaker"
+            ]
+        }
+    ]
+}
