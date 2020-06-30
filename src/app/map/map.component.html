@@ -1,0 +1,11 @@
+<div fxLayout="column">
+    <div fxLayout="column" style="margin-bottom : 20px">
+        <mat-slider fxFlex="100" [min]="minValue" style="margin-bottom: 20px;" (click)="shiftTime()" [max]="maxValue" [step]="step" [formControl]="value"></mat-slider>
+        <div fxLayout="row">
+           <span fxFlex="10">{{startTime |date:'mediumTime'}}</span>
+           <div fxFlex></div>
+           <span fxLayoutAlign="end" fxFlex="10">{{endTime |date:'mediumTime'}}</span>
+        </div>
+    </div>
+    <div id="map" class="map-container"> </div>
+</div>
